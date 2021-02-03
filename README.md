@@ -1,2 +1,1 @@
-Hello from Win_10
-Cosmos is near here...
+No code No pain
